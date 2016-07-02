@@ -1,0 +1,79 @@
+/*nav*/
+
+nav {
+    color: darkred;
+    width: 1335px;
+    height: 50px;
+    background-color: darkkhaki;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 1px;
+}
+header {
+    align-content: center;
+    color: fuchsia;
+    text-align: center;
+    background-size: 100%;
+    padding: 25% 0% 25% 25%;
+    border-bottom-width: 100px;
+    background-image: url('../img/nice.jpg');
+}
+#landing h1 {
+    float: right;
+    direction: width: 1000px;
+    text-align: center;
+}
+
+/* SECTION AREA */
+
+#details {
+    text-align: center;
+    background-color: limegreen;
+    margin-top: 10px;
+}
+
+/* SECTION CLASSES */
+
+.info {
+    display: inline-block;
+    float: left;
+    width: 800px;
+    border: 8px dashed black;
+    padding: 50px;
+    height: 400px;
+    margin-right: 0px;
+}
+.points {
+    display: inline-block;
+    float: right;
+    border: 8px dashed black;
+    width: 403px;
+    text-align: center;
+    height: 500px;
+    margin-left: 0px;
+}
+footer {
+    text-align: center;
+    height: 20px;
+    background-color: limegreen;
+    border: 8px dashed black;
+    border-top: none;
+    border-bottom: none;
+}
+#maps {
+    border: 8px dashed black;
+    border-top: none;
+    border-bottom: none;
+    width: 1320px;
+    height: 300px;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+body {
+    background-color: limegreen;
+}
+body ul{
+    float: right;
+    list-style: square;
+    background-color: antiquewhite;
+}

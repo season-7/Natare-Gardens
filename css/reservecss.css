@@ -1,0 +1,45 @@
+aside {
+    position: fixed;
+    margin: 0 1.5%;
+    width: 30%;
+}
+section {
+    display: inline-block;
+    margin: 0 1.5%;
+    width: 850px;
+    height: 300px;
+    border: 6px dotted limegreen;
+    clear: right;
+    position: relative;
+}
+div {
+    float: right;
+    width: 400px;
+    height: 927px;
+    clear: left;
+    border: 6px solid limegreen;
+    position: absolute;
+    right: 20px;
+    top: 110px;
+}
+div img {
+    width: 400px;
+    height: 927px;
+}
+.footer {
+    clear: both;
+    text-align: center;
+    padding-left: 300px;
+}
+#form ul {
+    list-style: none;
+    align-content: center;
+}
+.my {
+    float: right;
+}
+body ul {
+    float: right;
+    list-style: square;
+    background-color: antiquewhite;
+}

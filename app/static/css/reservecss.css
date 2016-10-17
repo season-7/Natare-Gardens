@@ -1,0 +1,18 @@
+.footer {
+    text-align: center;
+}
+
+nav ul{
+    background-color: antiquewhite;
+    list-style: none;
+    float: right;
+}
+.img img{
+background-size: contain;
+width: 100%;
+
+}
+
+#forms{
+margin-left: 15%;
+}

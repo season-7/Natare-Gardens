@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/css/reservecss.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+                <a href="reserve.html">Reservations</a>
+                <a href="offers.html">Offers</a>
+                <a href="gallery.html">Gallery</a>
+            </li>
+        </ul>
+        <header>
+            <h1><em>RESERVATIONS</em></h1>
+        </header>
+    </nav>
+
+
+    <section class="row">
+        <div class="img small-12 large-12 columns">
+            <img src="/static/img/catering1.jpg" alt="">
+        </div>
+
+        <hr>
+        <div class="small-12 large-4 columns">
+             <p> <em>Kindly provide the following Information to enable us Serve you better;</em></p>
+        <form id="forms" action="{{ url_for('manage.display_reservation') }}" method="POST">
+            <ul>
+                <li>
+                    <input type="text" placeholder="First Name" size="80" name="firstName" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Middle Name" size="80" name="MiddleName" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Last Name" size="80" name="lastName"/>
+                </li>
+                <li>
+                    <input type="email" placeholder="Email Address" size="80" name="email" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Occupation" size="80" name="occupation" />
+                </li>
+
+            </ul>
+
+
+            <!--BOOKING DETAILS-->
+            <ul>
+                <li>
+                    <input type="text" placeholder="Arrival Date" size="80" name="arrivalDate"/>
+                </li>
+                <li>
+                    <input type="text" placeholder="Departure Date" size="80" name="departureDate"/>
+                </li>
+
+                <br>
+                <p>
+                    <b>
+                        <em>Kindly Reserve;</em>
+                    </b>
+                </p>
+                <li>
+                    <label>
+                        <input type="radio" name="single" />Single Room</label>
+                    <label>
+                        <input type="radio" name="double" /> Double Room</label>
+                    <label>
+                        <input type="radio" name="master" /> Master Suite</label>
+                </li>
+
+                <br>
+                <hr>
+
+                <li class="rating">
+                    <label>Rate Us: <em> (Optional)</em></label>
+                    <select id="Drinks">
+                        <option>Superb</option>
+                        <option>Just there</option>
+                        <option>Alright</option>
+                        <option>Yack</option>
+                        <option>Other&hellip;</option>
+                    </select>
+
+                </li>
+
+                <br>
+                    <input class="button" type="submit" value="SUBMIT">
+            </ul>
+        </form>
+            </div>
+
+        <!--CAUTION SECTION-->
+
+        <div>
+
+        <p><b>CAUTION:</b></p>
+        <p><em>The company has strict policies against making reservations and then not showing up for the given reservations.
+            <br>Should you have a problem arriving, Kindly get in touch with our administration office,
+            who would then cancel your reservation on your behalf.<br>
+            <b>NOTE:</b> <br> If you make reservations and fail to cancel more than twice, you
+            <b> will be banned from the premises indefinitely!</b></em></p>
+    </div>
+    </section>
+
+
+    <footer class="footer">
+        <p> By Winny Troy</p>
+    </footer>
+</body>
+
+</html>

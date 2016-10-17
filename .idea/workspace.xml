@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ac28f76-8252-4c41-a05a-b9a25c76b764" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/root.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/manage/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/manage/controller.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/manage/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/gallerycss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/indexcss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/offerscss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/reservecss.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (6).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (7).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (8).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images (9).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/14201870-Chef-woman--Stock-Photo-cook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/bonfire1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/bonfire2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/bonfire3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/catering1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/catering2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/catering3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/catering4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/conference1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/conference2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/conference3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/images (3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/images (6).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/outdoor1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/outdoor2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/outdoor3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/wedding1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/wedding2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img/wedding3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nice.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/outdoor4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/offers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reserve.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="0ac28f76-8252-4c41-a05a-b9a25c76b764" name="Default" comment="" />
     <ignored path="Natare-Gardens.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
